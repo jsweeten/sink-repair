@@ -1,0 +1,18 @@
+
+.field {
+    display: flex;
+    flex-direction: column;
+    margin: 10px, 5px;
+    font-size: 1.2em;
+}
+
+.input {
+    width: 25%;
+}
+
+#submitRequest {
+    background-color: indigo;
+    color: antiquewhite;
+    margin-top: 10px;
+    padding: 8px;
+}
